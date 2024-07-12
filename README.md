@@ -29,8 +29,9 @@ Para o desenvolvimento do projeto, foram utilizadas as seguintes IAs:
    A música foi refinada, ajustando elementos como ritmo, melodia e harmonia, para garantir que a composição final fosse coesa e impactante.
 
 ## 🚀 Resultados
-Confira o resultado do projeto ouvindo a música completa [clicando aqui](https://www.youtube.com/"...").
+Confira o resultado do projeto ouvindo a música completa [clicando aqui](https://youtu.be/FGadRvN-azQ).
 
+https://github.com/user-attachments/assets/de1e6778-dd78-462b-8bd9-c4a8c4653249
 
 ## 💭 Reflexãogio
 Criar algo 'natty' com IA foi um desafio interessante. A combinação de criatividade humana e potencial tecnológico das IAs generativas resultou em uma música autêntica que resgata a energia do Rock and Roll dos anos 2000. Este projeto demonstrou o poder das IAs em auxiliar processos criativos, permitindo explorar novas fronteiras na composição musical.
