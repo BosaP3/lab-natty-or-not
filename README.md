@@ -1,51 +1,36 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🎶 Projeto Rock 'n' Roll Revival 🎙
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto, desenvolvi uma música no estilo Rock and Roll dos anos 2000, um estilo que sempre me atraiu pela sua energia e autenticidade. Utilizando tecnologias de IA generativas, como o ChatGPT e o Suno AI, criei uma composição que captura a essência desse gênero musical. A música combina riffs de guitarra vibrantes e batidas energéticas, tudo gerado com a ajuda de IA para alcançar um som autêntico e nostálgico.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Para o desenvolvimento do projeto, foram utilizadas as seguintes IAs:
+
+- **ChatGPT 4omni:**
+  Utilizado para gerar ideias iniciais e relembrar conceitos vitais para a melodia da música, criando uma base criativa sólida para a composição.
+
+- **Suno:**
+  Suno AI foi utilizado para gerar a música completa, transformando as ideias em uma composição musical completa no estilo Rock and Roll dos anos 2000.
+
+- **Bing:**
+  Utilizado para criar a logo do projeto, capturando visualmente a essência do Rock and Roll dos anos 2000.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Geração de Ideias:**
+   Utilizei o ChatGPT 4omni para brainstormar ideias de letras e conceitos para a música. Focado em temas comuns do Rock and Roll, como liberdade, rebeldia e paixão.
+
+2. **Composição:**
+   As ideias geradas pelo ChatGPT foram então inseridas no Suno AI, que criou a melodia e os arranjos instrumentais. Fiz ajustes manuais para garantir que a música mantivesse a autenticidade do estilo Rock and Roll dos anos 2000.
+
+3. **Criação da Logo:**
+   Utilizei o Bing para criar uma logo que refletisse visualmente o espírito do Rock and Roll dos anos 2000, adicionando um toque autêntico e profissional ao projeto.
+
+4. **Finalização:**
+   A música foi refinada, ajustando elementos como ritmo, melodia e harmonia, para garantir que a composição final fosse coesa e impactante.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Confira o resultado do projeto ouvindo a música completa [clicando aqui](https://www.youtube.com/"...").
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexãogio
+Criar algo 'natty' com IA foi um desafio interessante. A combinação de criatividade humana e potencial tecnológico das IAs generativas resultou em uma música autêntica que resgata a energia do Rock and Roll dos anos 2000. Este projeto demonstrou o poder das IAs em auxiliar processos criativos, permitindo explorar novas fronteiras na composição musical.
